@@ -1,0 +1,5 @@
+this is not a case sensitive sentence 
+This is A case Sensitive sentence 
+not case sensitive 
+Case Sensitive sentence
+Not Case Sensitive  
