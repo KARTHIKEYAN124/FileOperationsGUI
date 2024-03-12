@@ -6,10 +6,10 @@ This java based File Operation Tool was created using Eclipse workspace.
 1.**Sorting the Files**: You can sort the lines in the file in Ascending, Descending by clicking on the Sort Ascending and Sort Descending button.  
 2.**Duplicate**: Remove and keep the duplicate lines from the files by clicking on the Remove Duplicates and Keep Duplicates button.  
 3.**Case Sensitive Checkbox**: When the Case sensitive checkbox is checked and the Sort Ascending, Sort Descending, Keep Duplicates, Remove Duplicates button is clicked in File 1 or File 2 heading the lines are sorted in the case sensitive manner of Ascending, Descending, Keep Duplicates, Remove Duplicates and when the checkbox is unchecked the operations are performed in the case insensitive manner.  
-3. **Line Manipulation**: You can remove the lines from      
+4. **Line Manipulation**: You can remove the lines from      
   -One file that are in the other file.        
   -One file that are not in the other file.    
-4. **Exception Handling**: The Exceptions are handled and logged them into logger.log.  
+5. **Exception Handling**: The Exceptions are handled and logged them into logger.log.  
 
 **GUI Button and Checkbox Options**    
 1.	Sort Ascending  
